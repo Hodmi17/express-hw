@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    border: solid 3px rgb(129, 36, 36);
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+  
+    
+}
+
